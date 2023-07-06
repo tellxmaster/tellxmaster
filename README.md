@@ -1,4 +1,10 @@
 # Elias Telleria (tellxmaster) 👾 💻
+
+<p align="center">
+  <img src="assets/logo.png" alt="Logo for Light Theme" title="Logo for Light Theme" width="150px">
+</p>
+
+
 ## **Full-Stack & Software Developer**
 Hello, world! I'm Elias Telleria, but you might know me as Tellxmaster in the tech realm. As a full-stack and software developer, I've dedicated myself to harnessing the power of code to create meaningful and effective solutions.
 
